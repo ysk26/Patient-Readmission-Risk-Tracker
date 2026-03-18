@@ -12,17 +12,17 @@ The challenge: by the time a patient is readmitted, it's too late. This project 
 What It Does
 
 Raw patient data (101,766 records)
-        ↓
+        ->
 Data cleaning & feature engineering
-        ↓
+        ->
 Temporal train/test split (past → future)
-        ↓
+        ->
 SMOTE balancing (training only)
-        ↓
+        ->
 Random Forest model (200 trees)
-        ↓
+        ->
 Risk scoring - High / Medium / Low
-        ↓
+        ->
 Color-coded Excel report + automated email
 ```
 ---
