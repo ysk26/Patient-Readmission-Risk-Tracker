@@ -1,0 +1,5 @@
+   Download the dataset from Kaggle:
+
+   https://www.kaggle.com/datasets/brandao/diabetes
+
+   Place diabetic_data.csv in the folder before running the notebook.
